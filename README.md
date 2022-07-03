@@ -1,5 +1,8 @@
-# Ocaml_Todo_List
-Cornell CS 3110 final project. Productivity Application
+# Productivity Application
+Cornell CS 3110 Final Project: OCaml-based Productivity App
 
-## To Do List
-Our app will be able to display the to do list.
+## Features
+Manage tasks and todos
+
+## Credits
+Created in Colloboration with Tuan Dang, Benny Rubin, and Tong Duan
